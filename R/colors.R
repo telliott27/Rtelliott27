@@ -23,5 +23,9 @@ ps_colors <- list(
     "green" = "#27b35d",
     "lime_green" = "#9bc84c",
     "black" = "#2e2e2e"
+  ),
+  flow = list(
+    "blue-1" = "#2968B2",
+    "blue-2" = "#27AAE1"
   )
 )
