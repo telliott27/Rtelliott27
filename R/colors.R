@@ -29,3 +29,20 @@ ps_colors <- list(
     "blue-2" = "#27AAE1"
   )
 )
+
+#' @export
+ps_colors2 <- list(
+  "pink" = "#ff1675",
+  "blue" = "#130f25",
+  secondary = list(
+    "light blue" = "#99daff",
+    "blue" = "#00a3ff",
+    "dark purple" = "#4a33d1",
+    "purple" = "#770ef7",
+    "yellow" = "#ffc942",
+    "orange" = "#ff7b01",
+    "green" = "#02e088"
+  ),
+  tertiary = c("#1b1834", "#242145", "#393b6b", "#585fa2", "#8e93c2",
+               "#89a4c7", "#d3dff0", "#ebeff5", "#f4f7fa", "#ffffff")
+)
