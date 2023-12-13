@@ -46,3 +46,16 @@ ps_colors2 <- list(
   tertiary = c("#1b1834", "#242145", "#393b6b", "#585fa2", "#8e93c2",
                "#89a4c7", "#d3dff0", "#ebeff5", "#f4f7fa", "#ffffff")
 )
+
+#' @export
+sanity_colors <- list(
+  "black" = "#101112",
+  "red" = "#F36458",
+  "Cyan 200" = "#90ECF9",
+  "Cyan 400" = "#22DAF4",
+  "Gray 50" = "#F2F3F5",
+  "Gray 100" = "#E6E8EC",
+  "Gray 200" = "#CED2D9",
+  "Gray 800" = "#3F434A",
+  "Gray 900" = "#272A2E"
+)
