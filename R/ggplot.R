@@ -3,7 +3,8 @@
 theme_clean <- function(base_size = 11, base_family = "Arial") {
   th <- theme_minimal(base_family = base_family, base_size = base_size) +
     theme(
-      panel.grid = element_blank(),
+      panel.background = element_rect(fill = "white"),
+      plot.background = element_rect(fill = "white"),
       axis.line = element_line(color = "black", size = 0.2)
     )
   th
